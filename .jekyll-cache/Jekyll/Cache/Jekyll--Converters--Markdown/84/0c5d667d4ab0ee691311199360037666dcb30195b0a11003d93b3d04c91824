@@ -1,56 +1,33 @@
-I"�<p>Blueprints &amp; Permits</p>
+I"<h2 id="step-1a-obtain-the-building-permit">Step 1A. Obtain the building permit</h2>
+<p>A/N (Author Notes) <br />
+<strong>Bold = Action</strong> <br />
+<em>Italics = Input Variable</em> <br />
+Plan Text = Other</p>
 
-<p>I am consolidating the blueprint and permit steps - largely because I believe permit and locale requirements will dictate aspects of the design and set the bar for what is required.</p>
+<ul>
+  <li><strong>Create</strong> Online account at county website</li>
+  <li><strong>Select</strong> <em>Apply for a Permit</em> &gt; <em>Finished Basement Residential</em></li>
+  <li><strong>Enter</strong> Applicant Information</li>
+  <li><strong>Enter</strong> Job description
+    <ul>
+      <li><em>Sqft: 1273</em></li>
+      <li><em>Permit Description: FINISHED BASEMENT WITH BEDROOM WITH EXISTING EGRESS WINDOW, FAMILY ROOM, UTILITY ROOM, BATHROOM, GYM, WET BAR</em></li>
+      <li><em>Declared Valuation: 10000</em></li>
+    </ul>
+  </li>
+</ul>
 
-<h3 id="step-checklist">Step Checklist</h3>
+<blockquote>
+  <p>Job description: accurately describe the scope of work to be completed on site: you’ll be asked to document “who” will perform the work and “what,” “where,” and “how” the work will be completed</p>
+</blockquote>
 
-<ol>
-  <li>Figure out permit requirements</li>
-  <li>Build blueprints and designs to permit specifications</li>
-  <li>Figure out a timeline and step process that incorporates inspections</li>
-  <li>Execute</li>
-</ol>
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align: left">Step</th>
-      <th style="text-align: left">Action</th>
-      <th style="text-align: left">Link</th>
-      <th style="text-align: left">Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: left">1</td>
-      <td style="text-align: left">Permit Reqs</td>
-      <td style="text-align: left">good swedish fish</td>
-      <td style="text-align: left">nice</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">2</td>
-      <td style="text-align: left">Build blueprints to Specs</td>
-      <td style="text-align: left">good and plenty</td>
-      <td style="text-align: left">nice</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">3</td>
-      <td style="text-align: left">Timeline</td>
-      <td style="text-align: left">good <code class="highlighter-rouge">oreos</code></td>
-      <td style="text-align: left">hmm</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">4</td>
-      <td style="text-align: left">Execute</td>
-      <td style="text-align: left">good <code class="highlighter-rouge">zoute</code> drop</td>
-      <td style="text-align: left">yumm</td>
-    </tr>
-  </tbody>
-</table>
-
-<h1 id="permit-requirements">Permit Requirements</h1>
+<blockquote>
+  <p>Finally, drawings, plans or other documentation of the proposed work may be required. You may be asked to pay for all or part of your permit fee at the time of application.</p>
+</blockquote>
 
 <h2 id="key-links">Key Links</h2>
+
+<p>*<a href="https://www.fairfaxcounty.gov/landdevelopment/finished-basements">FFC Basement Page</a></p>
 
 <p>Text can be <strong>bold</strong>, <em>italic</em>, or <del>strikethrough</del>.</p>
 

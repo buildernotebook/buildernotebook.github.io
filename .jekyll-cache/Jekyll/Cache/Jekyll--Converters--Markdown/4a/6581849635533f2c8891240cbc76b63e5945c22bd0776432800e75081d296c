@@ -1,4 +1,4 @@
-I"=<h1 id="permits--plans">Permits &amp; Plans</h1>
+I"�<h1 id="permits--plans">Permits &amp; Plans</h1>
 
 <ul>
   <li>Obtain Building Permit
@@ -6,29 +6,31 @@
       <li>Need to create building plans</li>
     </ul>
   </li>
-  <li>Obtain Electrical Permit (after building permit is issued)</li>
-  <li>Obtain building permit (after building permit is issued)</li>
+  <li>Obtain Electrical Permit</li>
+  <li>Obtain building permit</li>
 </ul>
 
-<p> 
- </p>
+<p> </p>
 
-<h2 id="obtaining-building-permit">Obtaining Building Permit</h2>
+<h2 id="obtain-building-permit">Obtain Building Permit</h2>
+<p>A/N (Author Notes) |
+<strong>Bold = Action</strong> | <em>Italics = Input Variable</em> | Plan Text = Other</p>
 
-<p>Create online account at county website</p>
-
-<p>Select [Apply for a Permit] [Finished Basement Residential]; will need to enter the following:</p>
-
-<h4 id="applicant-information">Applicant Information:</h4>
-<blockquote>
-  <p>this is pretty straightforward</p>
-</blockquote>
-
-<h4 id="job-description">Job Description:</h4>
-
-<blockquote>
-  <p>Sq ft</p>
-</blockquote>
+<ul>
+  <li><strong>Create</strong> Online account at county website</li>
+  <li><strong>Select</strong> <em>Apply for a Permit</em> &gt; <em>Finished Basement Residential</em></li>
+  <li><strong>Enter</strong> Applicant Information</li>
+  <li><strong>Enter</strong> Job description
+    <ul>
+      <li><em>Sqft:</em> 1273</li>
+      <li>
+        <blockquote>
+          <p>Sq ft</p>
+        </blockquote>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <blockquote>
   <p>Estimated cost</p>

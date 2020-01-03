@@ -1,35 +1,23 @@
 ---
-layout: post
+layout: default
+title: Permits & Plans
 ---
 
-{% content %}
 
-# Permits & Plans
+## Step 1A. Obtain the building permit
+A/N (Author Notes) <br />
+**Bold = Action** <br />
+_Italics = Input Variable_ <br />
+Plan Text = Other
 
-- Obtain Building Permit
-  - Need to create building plans
-- Obtain Electrical Permit
-- Obtain building permit
-
-&nbsp;
-
-{% endcontent %}
-
-## Obtaining Building Permit
-
-Create online account at county website
-
-Select [Apply for a Permit] [Finished Basement Residential]; will need to enter the following:
-
-#### Applicant Information: 
-> this is pretty straightforward
-
-#### Job Description: 
-
-
-> Sq ft
-
-> Estimated cost
+- **Create** Online account at county website
+- **Select** _Apply for a Permit_ > _Finished Basement Residential_ 
+- **Enter** Applicant Information
+- **Enter** Job description
+  - _Sqft: 1273_
+  - _Permit Description: FINISHED BASEMENT WITH BEDROOM WITH EXISTING EGRESS WINDOW, FAMILY ROOM, UTILITY ROOM, BATHROOM, GYM, WET BAR_
+  - _Declared Valuation: 10000_
+  
 
 > Job description: accurately describe the scope of work to be completed on site: you’ll be asked to document “who” will perform the work and “what,” “where,” and “how” the work will be completed
 
