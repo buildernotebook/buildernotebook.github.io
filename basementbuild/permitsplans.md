@@ -1,14 +1,21 @@
 ---
-layout: default
+layout: post
 ---
 
-# Blueprints & Permits Step Checklist
+{% content %}
 
-1. Obtain Building Permit
-2. Obtain Electrical Permit (after building permit is issued)
-3. Obtain building permit (after building permit is issued)
+# Permits & Plans
 
-# Obtaining Building Permit
+- Obtain Building Permit
+  - Need to create building plans
+- Obtain Electrical Permit
+- Obtain building permit
+
+&nbsp;
+
+{% endcontent %}
+
+## Obtaining Building Permit
 
 Create online account at county website
 
