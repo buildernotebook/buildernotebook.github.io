@@ -2,18 +2,17 @@
 layout: default
 title: Permits & Plans
 ---
-## Quick Reference
-
-### Costs
-- Permit application: $112.32
-
-<br />
+# Step 1: Permits & Plans
 * * *
-## Step 1A. Starting the permit application online
-A/N (Author Notes) <br />
-**Bold = Action** <br />
-_Italics = Input Variable_ <br />
-Plan Text = Other
+## 1A. Starting the permit application online
+
+### Overview
+
+Time: 30min <br />
+Costs: Permit Fee of $115 <br />
+Difficulty: Easy
+
+### Steps 
 
 - **Create** [Online account at county website](https://www.fairfaxcounty.gov/bldgpermits/login.aspx)
 - **Select** _Apply for a Permit_ > _Finished Basement Residential_ 
@@ -28,7 +27,7 @@ Plan Text = Other
   - _No other applicants/contacts_
 - **In-Person** Finish submission in-person
 
-> Your permit application cannot be completed online. _(A/N - I believe this is because there is a wet-bar which is outside of the Typical Finished Basement document)_ For Finished Basement Residential permit, please visit the Permit Application Center at 12055 Government Center Parkway, 2nd Floor, in the Herrity Building, Monday through Thursday from 8 a.m. to 4 p.m. and Friday from 9:15 a.m. to 4 p.m. or call 703-222-0801, TTY 711. 
+> **Your permit application cannot be completed online.** _(A/N - I believe this is because there is a wet-bar which is outside of the Typical Finished Basement document)_ For Finished Basement Residential permit, please visit the Permit Application Center at 12055 Government Center Parkway, 2nd Floor, in the Herrity Building, Monday through Thursday from 8 a.m. to 4 p.m. and Friday from 9:15 a.m. to 4 p.m. or call 703-222-0801, TTY 711. 
 ><br /><br />
 > Drawings, plans or other documentation of the proposed work may be required. You may be asked to pay for all or part of your permit fee at the time of application.
 ><br /><br />
@@ -36,7 +35,19 @@ Plan Text = Other
 
 <br />
 * * *
-## Step 1B. Getting ready to submit full plan in-person
+## 1B. Building the plan to submit in-person
+
+### Overview
+
+Time: 5hrs <br />
+Costs: Home Designer of $100 OR Chief-Architect of $199/month <br />
+Difficulty: Medium
+
+<br />
+<br />
+<br />
+<br />
+* * *
 
 ## Key Links
 
@@ -114,6 +125,10 @@ end
 ### There's a horizontal rule below this.
 
 * * *
+
+>| Cost Item        | Cost          | Detail/Link |
+|:-------------|:------------------|:------|
+| Permit Fee |  `$115`   |   |
 
 ### Here is an unordered list:
 
